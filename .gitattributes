@@ -1,0 +1,2 @@
+# Keep the dataset byte-for-byte (Windows and WSL git then agree on it)
+*.csv -text
